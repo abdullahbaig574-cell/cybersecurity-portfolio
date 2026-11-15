@@ -1,15 +1,11 @@
-# Professional Statement
 
-My name is Abdullah Baig.
 
-I am a BS Computer Engineering student at
-International Islamic University Islamabad.
+My name is Abdullah Baig, and I am a Computer Engineering student at the International Islamic University Islamabad.
 
-I am interested in Cybersecurity, Network Security,
-Ethical Hacking, and Information Security.
+I have a strong interest in Cybersecurity, Network Security, Ethical Hacking, and Information Security. I am currently developing my cybersecurity knowledge and technical skills through the Google Cybersecurity Professional Certificate.
 
-I am currently learning cybersecurity through
-the Google Cybersecurity Professional Certificate.
+I am learning about Linux, Python, SQL, security auditing, network security, vulnerability assessment, and incident response.
 
-My goal is to become a professional cybersecurity
-specialist and develop practical security skills.
+My goal is to become a skilled cybersecurity professional who can identify security vulnerabilities, protect computer systems, and help organizations maintain secure digital environments.
+
+I am committed to continuous learning, improving my technical abilities, and gaining practical experience through hands-on projects.
